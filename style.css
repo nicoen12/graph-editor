@@ -1,0 +1,8 @@
+body {
+    background: #333;
+    height: 100%;
+    font-family: system-ui;
+    display: grid;
+    margin: 0;
+    overflow: hidden;
+}
